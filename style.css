@@ -1,0 +1,19 @@
+.section {
+    height: 90vh;
+    padding-top: 100px;
+}
+
+
+.nav-link {
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: rgb(213, 213, 33) !important;
+}
+
+.scrolled {
+    background-color: #1864b0 !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+    transition: 0.3s;
+}
